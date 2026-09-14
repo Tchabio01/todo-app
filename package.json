@@ -1,0 +1,29 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A modern to-do list application with local storage functionality",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "task",
+    "list",
+    "productivity",
+    "local-storage",
+    "javascript",
+    "web-app"
+  ],
+  "author": "Tchabio01",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tchabio01/todo-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tchabio01/todo-app/issues"
+  },
+  "homepage": "https://github.com/Tchabio01/todo-app#readme"
+}
